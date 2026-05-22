@@ -1,4 +1,6 @@
-# Sub2API
+# Token Gateway 🚀
+
+> **基于 [Sub2API](https://github.com/Wei-Shaw/sub2api) 的 AI API 中转站** — 统一代理 Claude / OpenAI / Gemini 等 LLM API。
 
 <div align="center">
 
@@ -7,8 +9,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-336791.svg)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-7+-DC382D.svg)](https://redis.io/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://www.docker.com/)
-
-<a href="https://trendshift.io/repositories/21823" target="_blank"><img src="https://trendshift.io/api/badge/repositories/21823" alt="Wei-Shaw%2Fsub2api | Trendshift" width="250" height="55"/></a>
 
 **AI API 网关平台 - 订阅配额分发管理**
 
